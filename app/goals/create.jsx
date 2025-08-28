@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
   },
   input: {
     width: 300,
-    backgroundColor: 'white',
+    backgroundColor: 'blue',
     padding: 20,
     borderRadius: 8,
     marginVertical: 40,
@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
   },
   button: {
     padding: 18,
-    backgroundColor: 'orange',
+    backgroundColor: 'blue',
     color: 'white',
     borderRadius: 8,
   }
