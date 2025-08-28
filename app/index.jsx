@@ -25,13 +25,15 @@ const styles = StyleSheet.create({
   title: {
     marginVertical: 40,
     fontSize: 28,
+    fontWeight: 'bold',
   },
   link: {
     marginVertical: 20,
     padding: 16,
-    backgroundColor: '#21cc8d',
+    backgroundColor: 'orange',
     color: 'white',
     borderRadius: 8,
+    fontWeight:'bold',
   },
 })
 

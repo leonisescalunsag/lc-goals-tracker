@@ -44,10 +44,11 @@ const styles = StyleSheet.create({
     padding: 20,
     borderRadius: 8,
     marginVertical: 40,
+    fontWeight:'bold',
   },
   button: {
     padding: 18,
-    backgroundColor: '#21cc8d',
+    backgroundColor: 'orange',
     color: 'white',
     borderRadius: 8,
   }
